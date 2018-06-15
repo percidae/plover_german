@@ -1,7 +1,7 @@
 Plover German
 =================
 
-German stenography system for Plover based on the not realtime capable theory of the book "Deutsches System der computerkompatiblen Stenografie"
+German stenography system for Plover based on the not realtime capable theory of the book "Deutsches System der computerkompatiblen Stenografie". This book can be found in the university library of Dresden and can be read via interlibrary loan.
 
 Release Notes
 ~~~~~~~~~~~~~
