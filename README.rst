@@ -1,14 +1,14 @@
-Plover Portuguese
+Plover German
 =================
 
-Portuguese stenography system for Plover.
+German stenography system for Plover based on the not realtime capable theory of the book "Deutsches System der computerkompatiblen Stenografie"
 
 Release Notes
 ~~~~~~~~~~~~~
 
-``0.2.1``: Update orthography rules to handle single-character suffixes
+``0.0``: Update orthography rules to handle single-character suffixes
 
-``0.2.0``: Initial public release
+``0.0.0``: No public release
 
 Orthography
 ~~~~~~~~~~~
